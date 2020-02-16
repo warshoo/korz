@@ -9,3 +9,4 @@
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
 7. I successfully finished Sukhoi State Technical University of Gomel with diploma "electronic engineer"
+8. I will pass English level test some later.
