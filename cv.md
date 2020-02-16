@@ -1,6 +1,6 @@
 
 
-1. Aliaksandr Kalanala
+1. Aliaksandr Kalatala
 2. phone: +375-44-721-14-50 (A1);   email: fsmf@yandex.by;   Telegram: warshoo;   Discord: warshoo
 3. For me is important to understand, can I learning via self-education and online,my goal is to became  a JavaScript junior developer.
 4. Now I am totally newbie.
