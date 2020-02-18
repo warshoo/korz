@@ -1,0 +1,38 @@
+p{
+color:yellow;
+}
+html{
+
+  background-color: grey;
+}
+.rek{
+  margin:0 auto;
+  max-width: 1024px;
+  text-align: center;
+
+}
+ img{
+  height: 300px;
+  width: 300px;
+}
+ .knts {
+      background-color: dimgray;
+      margin: 0 auto;
+   width: 700px;
+   text-align: center;
+   border: solid white 1px;
+   border-radius: 5px;
+   padding: 5px;
+}
+table{
+  margin:0 auto;
+}
+.a1{
+  text-align:left;
+
+}
+.tort{
+margin:0 auto;
+  width: 700px;
+  text-align: center;
+}
